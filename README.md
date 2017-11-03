@@ -6,6 +6,7 @@ Step 2:In the src directory create a main class like MyLifeMain.java which calls
 Step 3:In the src directory either create a CSV file or use the one provided, test.csv. 
 Step 4: On the command line 
     >javac MyLife.java
-    >javac MyLifeMain.java
-    >java MyLifeMain test.csv
+    >javac Reports.java
+    >javac ProcessData.java
+    >java ProcessData test.csv
     
