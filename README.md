@@ -8,5 +8,6 @@ Step 4: On the command line
     >javac MyLife.java
     >javac Reports.java
     >javac ProcessData.java
-    >java ProcessData test.csv
+    >javac Init.java
+    >java MyLife test.csv
     
